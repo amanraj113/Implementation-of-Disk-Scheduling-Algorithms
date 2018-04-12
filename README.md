@@ -1,8 +1,10 @@
 OS PROJECT:
-            TEAM:      
-            Aman Raj(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075007), 
-            Manish(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075036), 
-            Anil Kachhwaha(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075009)
+TEAM:      
+Aman Raj(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075007), 
+
+Manish(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075036), 
+
+Anil Kachhwaha(Computer Science and Engineering(B.tech), IIT (BHU) Varanasi) (16075009)
 
 
 
